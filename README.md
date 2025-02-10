@@ -1,7 +1,7 @@
 # 📊 A/B Testing Dashboard - AI vs. Rule-Based Recommendations  
 
 🚀 **Try the Live App Here:**  
-👉 **[Launch A/B Testing Dashboard]((https://a-b-testing-hngdp4retx3vca8mscsrmk.streamlit.app/)**  
+👉 **[Launch A/B Testing Dashboard](https://a-b-testing-hngdp4retx3vca8mscsrmk.streamlit.app/)**  
 
 ---
 
