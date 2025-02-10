@@ -1,7 +1,7 @@
 # 📊 A/B Testing Dashboard - AI vs. Rule-Based Recommendations  
 
 🚀 **Try the Live App Here:**  
-👉 **[Launch A/B Testing Dashboard](https://workforceplanning-mdrxrdzzkx9uyo5k8zvfuk.streamlit.app/)**  
+👉 **[Launch A/B Testing Dashboard]((https://a-b-testing-hngdp4retx3vca8mscsrmk.streamlit.app/)**  
 
 ---
 
@@ -20,7 +20,7 @@ With this **A/B Testing Dashboard**, you can:
 
 ### **1️⃣ Access the App**  
 Click the link below to open the **A/B Testing Dashboard**:  
-🔗 **[Launch the App](https://workforceplanning-mdrxrdzzkx9uyo5k8zvfuk.streamlit.app/)**  
+🔗 **[Launch A/B Testing Dashboard]((https://a-b-testing-hngdp4retx3vca8mscsrmk.streamlit.app/)**  
 
 ### **2️⃣ Upload Your Data (Optional)**  
 - Click the **"Upload CSV File"** button in the sidebar.  
