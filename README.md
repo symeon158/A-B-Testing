@@ -25,7 +25,7 @@ Click the link below to open the **A/B Testing Dashboard**:
 ### **2️⃣ Upload Your Data**  
 - Click the **"Upload CSV File"** button in the sidebar.  
 - Upload your **A/B testing CSV file** (e.g., `ab_testing_sample.csv`).  
-- **The first 10 rows of the dataset will be displayed in the table.**  
+- **The first 5 rows of the dataset will be displayed in the table.**  
 
 ### **3️⃣ View Hypothesis Testing Results**  
 - The app performs **T-tests & Chi-square tests** to compare **CTR, CR, retention, and playtime** between Group A (rule-based) and Group B (AI-powered).  
